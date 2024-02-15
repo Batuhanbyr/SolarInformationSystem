@@ -11,10 +11,6 @@ Projenin amacı diğer şehirlerde kurulabilecek ve kullanılabilecek güneş en
 
 Projenin ilk odak noktası kullanıcıları olup, enerji üretimi için yatırım yapabilecekleri potansiyel yerleri belirlemelerinde oldukça önemli fikirler kazanmalarını ve bilimsel veriler elde etmelerini sağlayacaktır.
 
-## ARC42
-
-[ARC42 Documentation](https://batuhanbyr.github.io/geeweb.github.io/)
-
 
 ## Authors
 
